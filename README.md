@@ -1,6 +1,6 @@
 # About lucky0011198
 - 👋 Hi, I’m Laxmikant(Lucky)____:]
-- 👀 I’m interested in front-end and backend-devlopments
+- 👀 I’m interested in front-end and  ui/ux designing
 - 🌱 I’m currently learning java for backend and react-native for app devlopment
 - 💞️ I’m looking to collaborate on java programmer and react native developer
 - 📫 How to reach me varkallaxmikant62@gmail.com 
